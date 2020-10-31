@@ -1,4 +1,4 @@
-# CustomerWriter
+# Test task
 
 Test task for Playnance.com
 
